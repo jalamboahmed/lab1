@@ -1,3 +1,5 @@
+package Lab2;
+
 /** Edited by Ahmed Jalambo  */
 import java.util.Arrays;
 import java.util.Scanner;
